@@ -1,4 +1,2 @@
 # B1_experiment
-専門実験B1でグラフの作成時に使用したPythonコードです。
-
-使用環境はrequirements.txtファイルに記載しています。
+専門実験B1でグラフの作成時に使用したPythonコードです。使用環境はrequirements.txtファイルに記載しています。
